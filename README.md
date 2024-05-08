@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋, I'm Jason Lin</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,flask,aws,mysql,nextjs,redux,sass,git&theme=light&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,flask,aws,mysql,nextjs,redux,sass,vercel,styledcomponents,git&theme=light&perline=20)](https://skillicons.dev)
 
 <h2 align="left"><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="Coding GIF" width="30" height="30">
 These are My Projects</h2>
@@ -23,7 +23,6 @@ These are My Projects</h2>
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jasonlin1993&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
