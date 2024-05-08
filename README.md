@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jason Lin</h1>
 <h3 align="center">Frontend Engineer</h3>
 
-- 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at [https://gantt-chart-phi.vercel.app/](https://gantt-chart-phi.vercel.app/)
-
 - 📫 How to reach me **ninjachen.lin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
