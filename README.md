@@ -2,6 +2,14 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,flask,aws,mysql,nextjs,redux,sass,git&theme=light&perline=20)](https://skillicons.dev)
 
+<h2 align="left"><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="Coding GIF" width="30" height="30">
+These are My Projects</h2>
+
+|Year|Title|Technologies|
+|---|---|---|
+|2023|[GanttChart](https://github.com/jasonlin1993/GanttChart)|![REACT](https://img.shields.io/badge/REACT-black?style=flat-square&logo=REACT) ![REDUX](https://img.shields.io/badge/REDUX-black?style=flat-square&logo=REDUX) ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=Firebase) ![Styledcomponents](https://img.shields.io/badge/Styledcomponents-black?style=flat-square&logo=Styledcomponents)|
+|2023|[taipei-day-trip](https://github.com/jasonlin1993/taipei_day_trip)|![Python](https://img.shields.io/badge/python-black?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript) ![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=HTML5) ![SASS](https://img.shields.io/badge/SASS-black?style=flat-square&logo=SASS) ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask) ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=MySQL)|
+
 # 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
