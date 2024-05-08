@@ -7,7 +7,7 @@ These are My Projects</h2>
 
 |Year|Title|Technologies|
 |---|---|---|
-|2023|[GanttChart](https://github.com/jasonlin1993/GanttChart)|![REACT](https://img.shields.io/badge/REACT-black?style=flat-square&logo=REACT) ![Nextjs](	https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)![REDUX](https://img.shields.io/badge/REDUX-black?style=flat-square&logo=REDUX) ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=Firebase) ![Styledcomponents](https://img.shields.io/badge/Styledcomponents-black?style=flat-square&logo=Styledcomponents)|
+|2023|[GanttChart](https://github.com/jasonlin1993/GanttChart)|![REACT](https://img.shields.io/badge/REACT-black?style=flat-square&logo=REACT) ![nextjs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)![REDUX](https://img.shields.io/badge/REDUX-black?style=flat-square&logo=REDUX) ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=Firebase) ![Styledcomponents](https://img.shields.io/badge/Styledcomponents-black?style=flat-square&logo=Styledcomponents)|
 |2023|[taipei_day_trip](https://github.com/jasonlin1993/taipei_day_trip)|![Python](https://img.shields.io/badge/python-black?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript) ![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=HTML5) ![SASS](https://img.shields.io/badge/SASS-black?style=flat-square&logo=SASS) ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask) ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=MySQL)|
 
 # 💻 Tech Stack:
