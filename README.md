@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Living in Tainan.<br>📫 How to reach me: ninjachen.lin@gmail.com.
+📫 How to reach me: ninjachen.lin@gmail.com.
 
 
 # 💻 Tech Stack:
