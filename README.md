@@ -1,5 +1,5 @@
 # 💫 About Me:
-📫 How to reach me: ninjachen.lin@gmail.com.
+<h3>📫 How to reach me: ninjachen.lin@gmail.com.</h3>
 
 
 # 💻 Tech Stack:
